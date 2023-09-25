@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ak's Personal Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: lightgray;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: darkgreen;
+        }
+
+        h2 {
+            color: red;
+        }
+
+        p {
+            margin: 20px;
+        }
+
+        a {
+            color: lightblue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm Ak (The Honoured One)</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am an anime and tech enthusiast. I have a strong passion for anime, and my favorite is Jujutsu Kaisen (JJK). My favorite character from the series is Satoru Gojo, mainly due to his captivating personality.
+        </p>
+        <p>
+            In addition to my love for anime, I enjoy creating Roblox games for fun. My games are not pay-to-win, and you can check out one of my creations <a href="https://www.roblox.com/games/14730798256/Cursed-Japan">here</a>.
+        </p>
+        <p>
+            Feel free to reach out and connect with me. I'm always open to discussing anime, tech, or anything else of interest.
+        </p>
+    </section>
+</body>
+</html>
